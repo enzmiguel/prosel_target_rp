@@ -1,0 +1,5 @@
+1- Ligo o primeiro interruptor e deixo ele ligado por algum tempo;
+2- Após esse tempo, desligo o primeiro interruptor e ligo o segundo;
+3- A lâmpada que tá acesa é a do segundo interruptor (que foi ligado por último);
+4- A lâmpada que está apagada e quente é do primeiro interruptor (que foi ligado e depois desligado);
+5- A lâmpada apagada e fria é a do interruptor que não foi ligado.
